@@ -13,6 +13,10 @@ footer{
     margin: 20px;
 }
 
+.textos{
+    padding-left: 20px;
+}
+
 @media screen and (min-width: 1024px) {
     .intro{
     display: flex;
