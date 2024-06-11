@@ -13,6 +13,10 @@ footer{
     margin: 20px;
 }
 
+.imagens{
+    width: 100%;
+}
+
 @media screen and (min-width: 1024px) {
     .intro{
     display: flex;
