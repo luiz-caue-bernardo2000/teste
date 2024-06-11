@@ -9,6 +9,10 @@ footer{
     text-align: center;
 }
 
-.intro{
+
+@media screen and (min-width: 1024px) {
+    .intro{
     display: flex;
 }
+}
+
