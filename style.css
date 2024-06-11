@@ -8,3 +8,7 @@ footer{
     padding: 4px;
     text-align: center;
 }
+
+.intro{
+    display: flex;
+}
