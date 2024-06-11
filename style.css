@@ -9,10 +9,14 @@ footer{
     text-align: center;
 }
 
+.intro{
+    margin: 20px;
+}
 
 @media screen and (min-width: 1024px) {
     .intro{
     display: flex;
 }
+
 }
 
