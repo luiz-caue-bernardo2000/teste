@@ -13,7 +13,9 @@ footer{
     margin: 20px;
 }
 
-
+.sumir{
+    display: none;
+}
 
 @media screen and (min-width: 1024px) {
     .intro{
@@ -23,6 +25,9 @@ footer{
     padding-left: 20px;
 }
 
+.sumir{
+    display: block;
+}
 
 }
 
