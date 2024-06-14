@@ -24,3 +24,7 @@ footer{
 .textos{
     padding-left: 20px;
 }
+
+.texto-2 {
+    float: left;
+}
