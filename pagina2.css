@@ -19,6 +19,12 @@ main {
     padding: 2em;
     text-align: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .intro{
+    display: flex;
+}
+
 footer {
     background-color: #DDC2A9;
     padding: 1em;
