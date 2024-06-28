@@ -19,6 +19,9 @@ main {
     padding: 2px;
     text-align: center;
 }
+.textobemlongo{
+    
+}
 
 @media screen and (min-width: 1024px) {
     .intro{
