@@ -12,6 +12,10 @@ h1 {
     padding-left: 20px;
 }
 
+.imagem3{
+    width: 50%;
+}
+
 @media screen and (min-width: 1024px) {
 
 }
