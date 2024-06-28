@@ -7,6 +7,12 @@ h1 {
     text-decoration: underline;
 }
 
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .textobemlongo{
     margin: 20px;
     padding-left: 20px;
