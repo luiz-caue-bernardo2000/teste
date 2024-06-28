@@ -1,8 +1,7 @@
 header {
     background-color: #DDC2A9;
-    padding: 1em;
+    padding: 5px;
     text-align: center;
-    width: 100%;
 }
 h1 {
     text-decoration: underline;
@@ -28,9 +27,6 @@ main {
 
 footer {
     background-color: #DDC2A9;
-    padding: 1em;
+    padding: 4px;
     text-align: center;
-    width: 100%;
-    position: fixed;
-    bottom: 0;
 }
